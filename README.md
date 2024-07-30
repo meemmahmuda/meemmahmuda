@@ -23,15 +23,30 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:meemmahmuda85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+<a href="https://www.facebook.com/meem.ahmed.376" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0984e3?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+</a>
+
+  <a href="https://linkedin.com/in/mahmuda-binte-sayeed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+
+  <a href="https://twitter.com/mahmuda78833" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
+  
+  <a href="https://www.instagram.com/meem_deem_/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  
+  <a href="https://www.fiverr.com/meem_wdesigner" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-41c686?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" />
+  </a>
+
+  <a href="https://www.upwork.com/freelancers/~01fbff0b20c25758d5" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-069b53?style=for-the-badge&logo=upwork&logoColor=white" target="_blank" />
+  </a>
+  
 </div>
 
  <hr/>
