@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **HTML, CSS, Tailwind, JS, React, PHP, Laravel, Vue, Node.js, MySql, MongoDB**
+ 🔭 I’m currently working on **HTML, CSS, SASS, Tailwind, JS, React, PHP, Laravel, Vue, Node.js, MySql, MongoDB**
 
 💼 I have freelancing accounts on **Fiverr** and **Upwork**
 
@@ -56,7 +56,7 @@
 <h2 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,scss,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,jquery,mysql,vuejs,php,laravel,wordpress" /><br>
 </div>
 
