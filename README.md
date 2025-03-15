@@ -66,7 +66,7 @@
 <div align="center">
   <h2>📈 My Contributions 📈</h2>
   <br>  
-  github-contribution-grid-snake.svg
+  ![snake gif](https://github.com/meemmahmuda/meemmahmuda/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
