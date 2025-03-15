@@ -27,7 +27,7 @@ jobs:
       - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GH_PAT }}  # Ensure `GH_PAT` is set in GitHub Secrets
+          github_token: ${{ secrets.GH_PAT2 }}  # Ensure `GH_PAT` is set in GitHub Secrets
           branch: master
           force: true
 
@@ -37,4 +37,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Corrected
+          GITHUB_TOKEN: ${{ secrets.GH_PAT2 }}  # ✅ Corrected
