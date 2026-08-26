@@ -62,8 +62,19 @@
 <h2 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,scss,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,jquery,mysql,vuejs,php,laravel,wordpress" /><br>
+
+### 🧪 SQA & Testing
+
+<img src="https://skillicons.dev/icons?i=cypress,postman,jira,python" />
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=html,css,scss,javascript,php,laravel,react,vuejs,mysql,wordpress" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
 </div>
 
 <br/>
