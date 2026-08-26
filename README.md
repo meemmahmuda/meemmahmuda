@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<h3 align="center">A passionate full stack developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate SQA Engineer & Web Application Developer from Bangladesh 🇧🇩</h3>
 
 <br/>
 
