@@ -62,6 +62,7 @@
 <h2 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h2>
 <br/>
 <div align="center">
+  
 ### 🧪 SQA & Testing
 
 <img src="https://skillicons.dev/icons?i=python,postman,cypress" />
