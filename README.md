@@ -65,7 +65,9 @@
 
 ### 🧪 SQA & Testing
 
-<img src="https://skillicons.dev/icons?i=cypress,postman,jira,python" />
+<img src="https://skillicons.dev/icons?i=python,postman,cypress" />
+
+**Jira • Newman • Locust • Manual Testing**
 
 ### 💻 Development
 
@@ -76,7 +78,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
-
 <br/>
 <hr/>
 
