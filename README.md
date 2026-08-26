@@ -12,15 +12,21 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **HTML, CSS, SASS, Tailwind, JS, React, PHP, Laravel, Vue, Node.js, MySql, MongoDB**
+🔭 Currently working on: Software Quality Assurance, Manual Testing, API Testing, Automation Testing, and Web Application Development
 
-💼 I have freelancing accounts on **Fiverr** and **Upwork**
+🧪 SQA & Testing: Manual Testing, Test Case Design, Bug Reporting, API Testing, Performance Testing, Cypress Automation, Postman, Newman, Jira
 
-⚡ I’m also an expert in **WordPress**
+💻 Web Development: HTML, CSS, JavaScript, PHP, Laravel, React.js, Vue.js, MySQL
 
-🎨 I’m passionate about **UI/UX design**, which I do using **Figma**
+⚙️ Tools & Technologies: Cypress, Postman, Newman, Jira, Git, GitHub, Locust
 
-🔥 I have experience with **Firebase** and work with it 
+🎨 UI/UX: Figma, UI/UX Design, Prototyping
+
+🌱 Currently learning: Advanced Software Testing, Test Automation, API Testing, and Performance Testing
+
+⚡ Experience: Web Application Development, WordPress, WooCommerce, and UI/UX Design
+
+📫 Let's connect: I'm interested in SQA, Software Testing, Automation Testing, and Web Application Development opportunities.
  
 </div>
  
