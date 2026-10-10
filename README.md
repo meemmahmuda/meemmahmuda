@@ -2,7 +2,7 @@
 
 <div style="background-color: #1289A7; padding: 10px; border-radius: 10px;">
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Playwrite+AR&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+This+is+Meem👋;&color=D980FA" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Playwrite+AR&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+This+is+Mahmuda👋;&color=D980FA" />
   </h1>
 </div>
 
